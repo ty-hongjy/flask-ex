@@ -17,4 +17,4 @@ def hello1():
     return "Hello World1!"
     
 if __name__=='_main_':
-  app.run()
+  app.run(debug=True)
